@@ -1,0 +1,17 @@
+{
+  "name": "FileSizeFileSizeAnalyzeWebpackPlugin",
+  "version": "1.0.0",
+  "description": "统计打包后文件大小的webpack plugin，便于进行优化分析",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "boxen": "5.0.0",
+    "chalk": "4.0.0",
+  }
+}
